@@ -1,6 +1,6 @@
 
-let a = prompt('Enter the first number');
-let b = prompt('Enter the second number');
+const a = prompt('Enter the first number');
+const b = prompt('Enter the second number');
 
 
 function add (a, b) {
